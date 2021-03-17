@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "628284409079",
+    "project_id": "crong-50bb0",
+    "storage_bucket": "crong-50bb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628284409079:android:b2e897e57933f6baf4bff2",
+        "android_client_info": {
+          "package_name": "com.example.crong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628284409079-01m451003b1g8e87802ko65cvku7pd9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPWrFz6vWtVimaO0qJXZW8PTL2v1V3Y2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628284409079-01m451003b1g8e87802ko65cvku7pd9f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
